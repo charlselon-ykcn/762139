@@ -4,7 +4,7 @@
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.4** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.5.6** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/vibrant-poster)**
 https://motiongit.com/@adunext/vibrant-poster
