@@ -4,7 +4,7 @@
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.6** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.7** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/vibrant-poster)**
 https://motiongit.com/@adunext/vibrant-poster
@@ -30,7 +30,7 @@ Demo duration: **194s**. The documented output is 1920 × 1080, 60 fps. The publ
 
 ## Inputs and materials
 
-- **Required:** Your current talking-head video with its original audio for the native presenter workflow.
+- **Optional:** Your current talking-head video with its original audio for the native presenter workflow.
 - **Required:** A transcript or SRT matching the current narration/video.
 - **Optional:** The topic, key points and output preferences already available in the conversation.
 
