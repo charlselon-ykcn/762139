@@ -5,7 +5,7 @@
   "owner": "adunext",
   "slug": "vibrant-poster",
   "website": "https://motiongit.com/@adunext/vibrant-poster",
-  "version": "2.7.18-alpha.4",
+  "version": "2.7.18-alpha.5",
   "technical": {
     "en": [
       "Declared runtime profile: adu-authored-unit/1.",
@@ -20,8 +20,8 @@
       "已声明时长随本期配音适配，最终节奏由包内制作计划确定，样片时长不是固定成片时长。"
     ]
   },
-  "checkedAt": "2026-11-02",
-  "availability": "download-available",
+  "checkedAt": "2026-11-04",
+  "availability": "demo-only",
   "title": {
     "en": "Vibrant Poster · Narrated Explainer",
     "zh": "活力海报 · 口播讲解"
