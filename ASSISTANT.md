@@ -3,7 +3,7 @@
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
 Template & full download: https://motiongit.com/@adunext/vibrant-poster
-Version: 2.7.18-alpha.8
+Version: 2.7.18-alpha.11
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
